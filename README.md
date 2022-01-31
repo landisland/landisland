@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a postgrad at the [Texas A&M University](https://www.tamu.edu) in Department of Industrial & Systems Engineering, Data Science track. I've previously lived in Beijing where I got my bachelor's degree. 
+😄 I am a postgrad at the [Texas A&M University](https://www.tamu.edu) in Department of Industrial & Systems Engineering, Data Science track. I've previously lived in Beijing where I got my bachelor's degree. 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landisland)](https://github.com/anuraghazra/github-readme-stats)
