@@ -1,7 +1,6 @@
 ### Howdy! 👋
 
-![status](https://img.shields.io/badge/status-up-brightgreen)  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/landisland)
+![status](https://img.shields.io/badge/status-up-brightgreen)  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/landisland)
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chunliangyang/)](https://www.linkedin.com/in/chunliangyang/) 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:landisland.blog@gmail.com)](mailto:landisland.blog@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/landisland)
