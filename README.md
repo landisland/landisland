@@ -1,6 +1,7 @@
 ### Howdy! 👋
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)  [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chunliangyang/)](https://www.linkedin.com/in/chunliangyang/) 
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:landisland.blog@gmail.com)](mailto:landisland.blog@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/landisland)
 
 😄 I am a postgrad at the [Texas A&M University](https://www.tamu.edu) in Department of Industrial & Systems Engineering, Data Science track. I've previously lived in Beijing where I got my bachelor's degree. 
