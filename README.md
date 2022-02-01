@@ -18,7 +18,7 @@ I enjoy all the covenience and sparks brought by the digital world, and I’m al
 - 🔧 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
+![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
 
 
 
