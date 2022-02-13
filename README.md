@@ -10,8 +10,6 @@
 
 I enjoy all the covenience and sparks brought by the digital world, and I’m always in search of methods to improve productivity. "Knowledge increases by spreading" sways my life so deeply, this saying pushes me to become a [newsletter writer](https://landisland.zhubai.love/), a [SSPAI writer](https://sspai.com/u/liam4ever/updates), a [Bilibili UP](https://space.bilibili.com/39422573). 
 
-cool
-
 
 
 [![landisland's GitHub stats](https://github-readme-stats.vercel.app/api?username=landisland)](https://github.com/anuraghazra/github-readme-stats)
