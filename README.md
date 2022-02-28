@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:landisland.blog@gmail.com)](mailto:landisland.blog@gmail.com)
 [![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/39422573)](https://space.bilibili.com/39422573)
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/landisland)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2336ad1e-1ca8-4f43-9b31-f16de1f94bd1/deploy-status)](https://app.netlify.com/sites/landisland/deploys)
+
 
 😄 I am a postgrad at the [Texas A&M University](https://www.tamu.edu) in Department of Industrial & Systems Engineering, Data Science track. I've previously lived in Beijing where I got my bachelor's degree. 
 
